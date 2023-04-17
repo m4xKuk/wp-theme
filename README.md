@@ -1,0 +1,1 @@
+wp theme one page. Using custom post_type, ACF, CF7, custom template page
